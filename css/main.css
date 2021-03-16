@@ -1,0 +1,20 @@
+.box-container{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+
+.box{
+    
+    width: 200px;
+    height: 200px;
+    background-color: #000;
+    color: #fff;
+}
+
+.one_box{
+    display: block;
+    width: 600px;
+    height: 200px;
+    background-color: blue;
+}
